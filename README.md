@@ -1,4 +1,5 @@
-<h2>Hey 👋, I'm <a href="">Lucas</a></h2>
+
+<h1>Hey 👋, I'm <a href="">Lucas</a></h1>
 <p>I'm currently a Web Developer at <strong><a href="">Lenovo</a></strong>. I am working on some side projects, learning a couple new techs, and trying to bring the best UX/UI experience.</p>
 <p>
  <a href="https://www.linkedin.com/in/lucas-gonzalez-678631124/">
@@ -6,7 +7,7 @@
         <img src="https://img.shields.io/badge/-@lucas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/lucas-gonzalez-678631124/" alt="LinkedIn Badge"></a> 
 </p>
 
-<img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="">Lenovo</a>.</li>
