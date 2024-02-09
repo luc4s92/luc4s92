@@ -7,7 +7,10 @@
         <img src="https://img.shields.io/badge/-@lucas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/lucas-gonzalez-678631124/" alt="LinkedIn Badge"></a> 
 </p>
 
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<div align="center" >
+<img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="">Lenovo</a>.</li>
