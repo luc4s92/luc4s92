@@ -1,12 +1,12 @@
 <h2>Hey 👋, I'm <a href="">Lucas</a></h2>
 <p>I'm currently a Web Developer at <strong><a href="">Lenovo</a></strong>. I am working on some side projects, learning a couple new techs, and trying to bring the best UX/UI experience.</p>
 <p>
- <a href="https://medium.com/@serbis">
-     <a href="https://www.linkedin.com/in/serbis/">
-        <img src="https://img.shields.io/badge/-@lucas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
-        </p>
+ <a href="https://www.linkedin.com/in/lucas-gonzalez-678631124/">
+     <a href="https://www.linkedin.com/in/lucas-gonzalez-678631124/">
+        <img src="https://img.shields.io/badge/-@lucas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/lucas-gonzalez-678631124/" alt="LinkedIn Badge"></a> 
+</p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="">Lenovo</a>.</li>
@@ -18,7 +18,7 @@
 </ul>
 
 <h2>🚀 My Techs skills</h2>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
