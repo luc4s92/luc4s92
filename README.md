@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm <a href="https://lucasg-dev.vercel.app/">Lucas</a></h1>
+<h1>Hey 👋, I'm <a href="https://lucasg-dev.vercel.app/" target="_blank" >Lucas</a></h1>
 <p>
   I'm currently a Web Developer at <strong><a href="">Lenovo</a></strong
   >. I am working on some side projects, learning a couple new techs, and trying
@@ -19,7 +19,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://www.lenovo.com/">Lenovo</a>.</li>
+  <li>🔭 I’m currently working on <a href="https://www.lenovo.com/" target="_blank" >Lenovo</a>.</li>
   <li>
     🧐 Learning about <strong>new FrontEnd techs</strong>,
     <strong>and some Backend Techs </strong>
